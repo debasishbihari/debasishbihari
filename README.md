@@ -41,3 +41,6 @@
  
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debasishbihari" alt="debasishbihari" /></a> </p>
   
+ ![](https://github-readme-stats.vercel.app/api?username=debasishbihari&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=debasishbihari&theme=radical&hide_border=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=debasishbihari&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
