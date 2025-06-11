@@ -17,7 +17,7 @@
 
 ❤️ You can ping me at <a target="blank" href='https://www.linkedin.com/in/debasish-bihari-b49028145/'>linkedIn</a>
 
-📄 Here is my <a target="blank" href='https://debasishbihari.github.io/'>portfolio</a>
+📄 Here is my <a target="blank" href='https://debasishbihari-portfolio.vercel.app/'>portfolio</a>
   
   
   
